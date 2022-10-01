@@ -4,7 +4,7 @@
 
 >In react I created a online Book Application.
 
->This project Api fetching aplication.
+>This is API fetching application.
 
 > Used google book API.
 
