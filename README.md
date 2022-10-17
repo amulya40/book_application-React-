@@ -32,6 +32,4 @@
 
 >Second page (particular book description).
 <img width="946" alt="image" src="https://user-images.githubusercontent.com/95541977/192044334-7891a517-6ab5-4005-b767-d14b3232046c.png">
-For more information go thourgh from this presentation loom video: https://www.loom.com/share/ba76e0eb44e849498273cf9395d39a12
-
-
+For more information go thourgh from this presentation video: https://www.loom.com/share/ba76e0eb44e849498273cf9395d39a12
