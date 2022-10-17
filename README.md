@@ -14,6 +14,8 @@
 
 > First we need to Add node_module to folder because
     in my system Node module installed with NPX.
+    
+> Install all the dependencies used in project.
 
 > After that open Terminal on this folder's path.
 
